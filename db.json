@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "phone": "077 99 34442",
+      "website": "hildegard.org"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "phone": "077 99 344125",
+      "website": "anastasia.net"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "phone": "077 99 34 447",
+      "website": "ramiro.info"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "phone": "077 99 34 445",
+      "website": "kale.biz"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren up",
+      "email": "Lucio_Hettinger@annie.ca",
+      "phone": "077 99 34 449",
+      "website": "demarco.info"
+    },
+    {
+      "id": 6,
+      "name": " Dennis Scist update",
+      "username": "Leopo update",
+      "email": "Karley_Dach@jasper.info",
+      "phone": "077 99 34 430",
+      "website": "ola.org"
+    },
+    {
+      "name": "pasindu Dilmin",
+      "username": "dilz",
+      "email": "pdminipura2@gmail.com",
+      "phone": "0779776809",
+      "id": 7
+    }
+  ]
+}
