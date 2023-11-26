@@ -7,10 +7,12 @@ import Update from './component/Update';
 import Delete from './component/Delete';
 import Create from './component/Create';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Search from './navbar/Search';
 
 
 function App() {
   
+
 
   return (
 
